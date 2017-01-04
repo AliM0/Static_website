@@ -1,0 +1,124 @@
+
+#header{
+	background-color: black;
+	color: white;
+	padding:.1em;
+	border: 1px solid #000;
+	border-bottom: none;
+
+} 
+
+body{
+	background-color: #E0E0E0;
+	width: 1200px;
+	margin-left: auto;	
+	margin-right: auto;
+	font-family: tahoma;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #D8D1D1}
+
+th {
+    background-color: #5D5050;
+    color: white;
+}
+
+#hrr {
+	width: 50%;
+	border: 1px dashed #1C1C1C;
+}
+
+#container{
+	background-color: #FFF4F4;
+	width: 80%;
+	margin:0 auto;
+	padding: 1px;
+}
+#container p {
+
+}
+#nav{
+	text-align: center;	
+	padding:.1em;
+	border: 1px solid #000;
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	margin-top: 3px;
+
+}
+
+#nav ul{	
+	list-style: none;
+	list-style-image: url(“modem1.jpg”); 
+	display: inline;
+	text-align: center;	
+	color: #888888;
+	margin-right: 3px;
+	
+}
+
+#sections{
+	text-align: center;	
+}
+	
+#sections ul{
+	list-style: none;
+	text-align: center;	
+	color: #888888;
+	
+}
+#sections ul li{
+	display:inline;
+}
+#nav ul li a {
+	display: inline; 
+	padding: 5px 5px 5px 0.5em; 
+	border-left: 10px solid #575656; 
+	border-right: 10px solid #BABABA; 
+	background-color: #888888; 
+	color: #fff; 
+	text-decoration: none;
+}
+#sections li a { 
+	display: inline; 
+	padding: 5px 5px 5px 0.5em; 
+	border-left: 10px solid #575656; 
+	border-right: 10px solid #BABABA; 
+	background-color: #888888; 
+	color: #fff; 
+	text-decoration: none;
+} 
+
+#nav ul li{
+	display:inline;
+}
+
+
+#main img{	
+}
+#content {
+	width: 80%;
+	margin:0 auto;
+	text-align: center;
+
+}
+#footer{
+	
+	margin-top: 1px;
+	margin-left: 10%;
+
+
+}
